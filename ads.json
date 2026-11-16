@@ -1,0 +1,20 @@
+{
+  "ads": [
+    {
+      "id": "tip_backup",
+      "label": "Tip",
+      "title": "Never miss your stop",
+      "text": "Turn on the backup alarm in Settings for long or late-night trips.",
+      "backgroundColor": "#0B4F4A",
+      "active": true
+    },
+    {
+      "id": "tip_battery",
+      "label": "Tip",
+      "title": "Keep the alarm reliable",
+      "text": "Turn off battery optimisation for Destination Alarm so your phone doesn't stop it mid-journey.",
+      "backgroundColor": "#14202B",
+      "active": true
+    }
+  ]
+}
